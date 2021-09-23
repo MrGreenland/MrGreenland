@@ -16,12 +16,11 @@ You can follow the project's development through this repository, we will eventu
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://bitbill.oss-accelerate.aliyuncs.com/pics/coins/bsc.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-
-  <img align="right" alt="Mr.Greenland" height="150" style="border-radius:50px;" src="https://s3.ezgif.com/save/ezgif-3-fd2a1db8fbb4.gif">
+##
+  <img align="right" alt="Mr.Greenland" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/398315114815553536/890640108322185266/ezgif.com-gif-maker.gif">
 </div>
   
 
- ##
  
 <div> 
   <a href="https://www.telegram.com/chanell" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
